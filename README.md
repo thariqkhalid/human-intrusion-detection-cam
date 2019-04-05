@@ -11,4 +11,5 @@ Deep Learning technology with Computer Vision will be used to solve the above me
 # Software requirements
 
 Python 3.5
+
 Opencv 3.4 (pip install opencv-python)
