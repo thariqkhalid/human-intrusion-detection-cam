@@ -12,4 +12,4 @@ Deep Learning technology with Computer Vision will be used to solve the above me
 
 Python 3.5
 
-Opencv 3.4 (pip install opencv-python)
+Opencv 3.4.2.16 (pip install opencv-python==3.4.2.16)
